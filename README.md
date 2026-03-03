@@ -1,16 +1,16 @@
 # 👋 Howdy, I’m 0x5A4159.
 I'm an amateur tech enthusiast with a passion for creating scripts and programs.
 
-I've mostly worked on personal projects utilizing Python, Rust, Lua, SQL, Javascript.
+I've mostly worked on personal projects utilizing Python, Rust, , C/C++, .NET/C#, Lua, SQL, Javascript.
 
 ## What I enjoy doing:
 I love to learn new things, and my primary points of interest are network technology, and machine learning.
 There are so many interesting things that can be done with machine learning, and with networking, being able to get information from one location to another has been revolutionary for the entire world.
 
 ## What I'm trying to learn:
-- Get more familiar with MEAN stack.
-- Improve low level understanding.
-- Better data structures and how to utilize them best.
+- Algorithms and low-level understanding
+- Game-modding
+- Data flow and transfer in SPI, I2C, UART
 
 ## Hobbies:
 - 🎮 Video games
